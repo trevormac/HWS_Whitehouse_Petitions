@@ -13,7 +13,6 @@
 		690014561EC3FEE70050FD4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 690014551EC3FEE70050FD4A /* Assets.xcassets */; };
 		690014591EC3FEE70050FD4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 690014571EC3FEE70050FD4A /* LaunchScreen.storyboard */; };
 		690014611EC40A6A0050FD4A /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690014601EC40A6A0050FD4A /* SwiftyJSON.swift */; };
-		6907429F1EEB2AFC001A7254 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6907429E1EEB2AFC001A7254 /* NetworkManager.swift */; };
 		69B10C301EC4F15500DD55B2 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B10C2F1EC4F15500DD55B2 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +25,6 @@
 		690014581EC3FEE70050FD4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6900145A1EC3FEE70050FD4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		690014601EC40A6A0050FD4A /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
-		6907429E1EEB2AFC001A7254 /* NetworkManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		69B10C2F1EC4F15500DD55B2 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -62,7 +60,6 @@
 			children = (
 				6900144E1EC3FEE70050FD4A /* AppDelegate.swift */,
 				690014501EC3FEE70050FD4A /* ViewController.swift */,
-				6907429E1EEB2AFC001A7254 /* NetworkManager.swift */,
 				690014521EC3FEE70050FD4A /* Main.storyboard */,
 				69B10C2F1EC4F15500DD55B2 /* DetailViewController.swift */,
 				690014601EC40A6A0050FD4A /* SwiftyJSON.swift */,
@@ -148,7 +145,6 @@
 			files = (
 				690014611EC40A6A0050FD4A /* SwiftyJSON.swift in Sources */,
 				690014511EC3FEE70050FD4A /* ViewController.swift in Sources */,
-				6907429F1EEB2AFC001A7254 /* NetworkManager.swift in Sources */,
 				6900144F1EC3FEE70050FD4A /* AppDelegate.swift in Sources */,
 				69B10C301EC4F15500DD55B2 /* DetailViewController.swift in Sources */,
 			);
